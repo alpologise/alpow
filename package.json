@@ -1,0 +1,25 @@
+{
+  "name": "alpologialtyapi",
+  "version": "0.0.1",
+  "description": "Alpologi altyapi",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "quick.db": "^7.1.3",
+    "twemoji-parser": "^14.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "alpocss",
+    "alpo"
+  ]
+}
